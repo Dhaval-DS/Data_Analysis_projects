@@ -1,7 +1,7 @@
 # 🥤 CodeX Beverage Market Analysis
 ### Python · Pandas · Matplotlib · NumPy
 
-![City Awareness](images/city_awareness.png) 
+codex-beverage-market-analysis/images/city_awareness.png
 ![Marketing Channels](images/marketing_channels.png)
 ![Market Leaders](images/market_leaders.png)
 ![Purchase Behaviour](images/purchase_behaviour.png)
